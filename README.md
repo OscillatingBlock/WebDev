@@ -9,7 +9,7 @@ A basic clone of the YouTube homepage using HTML and CSS. This project was creat
 * Demonstrates understanding of HTML and CSS fundamentals
 
 **Screenshots:**
-[Image of your YouTube clone](Screenshot_20240813_215528.png)
+![Image of your YouTube clone](Screenshot_20240813_215528.png)
 
 
 **Usage:**
